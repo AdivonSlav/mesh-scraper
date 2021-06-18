@@ -1,0 +1,28 @@
+{
+  "name": "mesh-scraper",
+  "version": "1.0.0",
+  "description": "Small Node.js webscraper",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "discord.js": "^12.5.3",
+    "puppeteer": "^10.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdivonSlav/mesh-scraper.git"
+  },
+  "keywords": [
+    "discord-bot"
+  ],
+  "author": "AdivonSlav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdivonSlav/mesh-scraper/issues"
+  },
+  "homepage": "https://github.com/AdivonSlav/mesh-scraper#readme"
+}
