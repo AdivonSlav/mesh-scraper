@@ -55,7 +55,10 @@ async function pageLogin(page) {
 }
 
 async function Scraper() {
-    const browser = await puppeteer.launch();
+    const browser = await puppeteer.launch({
+        headless: true,
+        args: ['--no-sandbox','--disable-setuid-sandbox']
+    });
     const page = await browser.newPage();
 
     await pageLogin(page);
