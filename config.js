@@ -1,6 +1,6 @@
-exports.LOGIN_USERNAME = 'IB200121';
-exports.LOGIN_PASSWORD = 'Ragnarslavicpower2981';
+exports.LOGIN_USERNAME = '';
+exports.LOGIN_PASSWORD = '';
 
-exports.BOT_TOKEN = 'ODU1NDA3ODQ4ODkyMzk5NjE2.YMyCow.k-6_5Dq-PaQ4H41aQ7gOwRQZLcw';
-exports.WEBHOOK_ID = '855207712753057792';
-exports.WEBHOOK_TOKEN = 'VCpRjVXmnEF8wgm9eQTJNw96Y4ROBCvYWj8FA_LTe1fSQvqxXEVwtTZBbNS7dRLcHS1t';
+exports.BOT_TOKEN = '';
+exports.WEBHOOK_ID = '';
+exports.WEBHOOK_TOKEN = '';
