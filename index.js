@@ -114,8 +114,6 @@ function sendMessage() {
     webhookClient.send('@everyone', {
         embeds: [newsEmbed],
     });
-
-    console.send('Sent new announcement!');
 }
 
 client.login(BOT_TOKEN);
